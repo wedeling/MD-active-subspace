@@ -7,6 +7,8 @@ Jupyter notebooks to replicate the results of
 **Abstract**
 Uncertainty quantification (UQ) is rapidly becoming a sine qua non for all forms of computational science out of which actionable outcomes are anticipated. While UQ is routinely performed for many kinds of large scale engineering applications within industry, for weather and climate forecasting, alongside socio-political and other human affairs, much of the microscopic world of atoms and molecules has seemingly remained immune to these developments. However, since fundamental problems of reproducibility and reliability are also implicated, it is essential that practitioners of these long-established methods pay attention to the issues concerned. In the present paper, we undertake a full scale, global UQ study of all of the epistemic and aleatoric contributions to key quantities of interest that are calculated in typical classical molecular dynamics simulations with physicochemical specificity including material properties and binding free energy predictions in drug discovery and personalised medicine. Using scalable UQ methods based on active subspaces that invoke machine learning and Gaussian processes, we globally rank the sensitivity of the calculated quantities. The analyses reveal that the uncertainty is dominated by only a small number of the many hundreds of interaction potential parameters within the force fields employed. This ranking is of immediate scientific interest as it highlights what forms of interaction control the uncertainty of the predictions and enable systematic improvements to be made in future optimisations of such parameters.
 
+Link to preprint
+
 ## Jupyter notebooks
 
 * `epoxy/epoxy.ipynb`: notebook to replicate the results of the epoxy-resin application.
