@@ -17,8 +17,8 @@ Link to preprint
 
 ## Data
 
-The MD training data can be found in the three application directories, stored in CSV format.
+The MD training data and GP results can be found in the three application directories, stored in CSV format.
 
 ## Funding
 
-The authors acknowledge funding support from (i) the UK EPSRC for the UK High-End Computing Consortium (EP/R029598/1), the Software Environment for Actionable \& VVUQ-evaluated Exascale Applications (SEAVEA) grant (EP/W007762/1), the UK Consortium on Mesoscale Engineering Sciences (UKCOMES grant no. EP/L00030X/1), and the Computational Biomedicine at the Exascale (CompBioMedX) grant (EP/X019276/1); (ii) the UK MRC Medical Bioinformatics project (grant no. MR/L016311/1); (iii) the European Commission for EU H2020 CompBioMed2 Centre of Excellence (grant no. 823712) and EU H2020 EXDCI-2 project (grant no. 800957). We made use of SuperMUC-NG at Leibniz Supercomputing Centre under project COVID-19-SNG1, and the ARCHER2 UK National Supercomputing Service under project **XXX**.
+The authors acknowledge funding support from (i) the UK EPSRC for the UK High-End Computing Consortium (EP/R029598/1), the Software Environment for Actionable \& VVUQ-evaluated Exascale Applications (SEAVEA) grant (EP/W007762/1), the UK Consortium on Mesoscale Engineering Sciences (UKCOMES grant no. EP/L00030X/1), and the Computational Biomedicine at the Exascale (CompBioMedX) grant (EP/X019276/1); (ii) the UK MRC Medical Bioinformatics project (grant no. MR/L016311/1); (iii) the European Commission for EU H2020 CompBioMed2 Centre of Excellence (grant no. 823712) and EU H2020 EXDCI-2 project (grant no. 800957). We made use of SuperMUC-NG at Leibniz Supercomputing Centre under project COVID-19-SNG1, and the ARCHER2 UK National Supercomputing Service under the SEAVEA grant (EP/W007762/1).
