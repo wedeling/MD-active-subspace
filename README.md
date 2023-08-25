@@ -1,6 +1,6 @@
 # MD-active-subspace
 
-Jupyter notebooks to replicate the results of 
+Jupyter notebooks to replicate the results of:
 
 Wouter Edeling, Maxime Vassaux, Yiming Yang, Shunzhou Wan, Peter Coveney, *Global ranking of the sensitivity of interaction potential contributions within classical molecular dynamics force fields*, (submitted), 2023.
 
