@@ -9,13 +9,16 @@ Uncertainty quantification (UQ) is rapidly becoming a sine qua non for all forms
 
 ## Jupyter notebooks
 
-* `epoxy/epoxy.ipynb`: notebook to replicate the results of the epoxy-resin application.
-* `esmacs/esmacs.ipynb`: notebook to replicate the results of the ESMACS binding free energy application.
-* `ties/ties.ipynb`: notebook to replicate the results of the TIES relative binding free energy application.
+* `epoxy/epoxy.ipynb`: notebook to replicate the DAS results of the epoxy-resin application.
+* `epoxy/epoxy_gp.ipynb`: notebook to replicate the KAS-GP results of the epoxy-resin application.
+* `esmacs/esmacs.ipynb`: notebook to replicate the DAS results of the ESMACS binding free energy application.
+* `esmacs/esmacs_gp.ipynb`: notebook to replicate the KAS-GP results of the ESMACS binding free energy application.
+* `ties/ties.ipynb`: notebook to replicate the DAS results of the TIES relative binding free energy application.
+* `ties/ties_gp.ipynb`: notebook to replicate the KAS-GP results of the TIES relative binding free energy application.
 
 ## Data
 
-The MD training data and GP results can be found in the three application directories, stored in CSV format.
+The MD training data can be found in the three application directories, stored in CSV format.
 
 ## Funding
 
