@@ -10,6 +10,7 @@ Uncertainty quantification (UQ) is rapidly becoming a sine qua non for all forms
 ## Jupyter notebooks
 
 * `epoxy/epoxy.ipynb`: notebook to replicate the DAS results of the epoxy-resin application.
+* `epoxy/epoxy-multiple-qoi.ipynb`: notebook to replicate the vector-valued DAS results of the epoxy-resin application.
 * `epoxy/epoxy_gp.ipynb`: notebook to replicate the KAS-GP results of the epoxy-resin application.
 * `esmacs/esmacs.ipynb`: notebook to replicate the DAS results of the ESMACS binding free energy application.
 * `esmacs/esmacs_gp.ipynb`: notebook to replicate the KAS-GP results of the ESMACS binding free energy application.
